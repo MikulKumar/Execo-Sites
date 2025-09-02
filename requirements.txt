@@ -1,4 +1,5 @@
-Flask 
-numpy 
-faiss
-openai
+Flask==2.3.4
+numpy==1.25.2
+faiss-cpu==1.21.6
+openai==1.9.1
+gunicorn==21.2.0
