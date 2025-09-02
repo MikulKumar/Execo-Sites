@@ -1,0 +1,430 @@
+[
+  {
+    "question": "I wanted to know about your business",
+    "answer": "We help businesses grow online by building professional websites, running Google/Facebook/Instagram ads, and managing social media accounts."
+  },
+  {
+    "question": "What services do you offer?",
+    "answer": "We help businesses grow online by building professional websites, running Google/Facebook/Instagram ads, and managing social media accounts."
+  },
+  {
+    "question": "Do you specialize in specific industries?",
+    "answer": "We mainly work with local businesses like restaurants, cleaning services, salons, gyms, and trades — but we can adapt to any industry."
+  },
+  {
+    "question": "How much do your services cost?",
+    "answer": "We offer three tiers: Starter (from $2,499), Enterprise (from $6,999), and Corporate (from $9,999). Each plan has a monthly care package."
+  },
+  {
+    "question": "Do you offer custom packages?",
+    "answer": "Yes — we can create a custom plan if your business has specific needs outside our tiers."
+  },
+  {
+    "question": "What is included in your social media management service?",
+    "answer": "We handle content creation, posting, captions, hashtag research, engagement (likes, replies), and performance tracking."
+  },
+  {
+    "question": "Do you create content for my business?",
+    "answer": "Yes — we design graphics, write captions, and create stories/reels tailored to your brand."
+  },
+  {
+    "question": "Do you run paid ads?",
+    "answer": "Yes — we run and optimize Facebook, Instagram, Google, and YouTube Ads."
+  },
+  {
+    "question": "Which platforms do you manage?",
+    "answer": "Instagram, Facebook, Google Business, TikTok, LinkedIn, Pinterest, and Twitter/X."
+  },
+  {
+    "question": "Do you also manage TikTok?",
+    "answer": "Yes — we can manage TikTok content and ads if that’s where your audience is active."
+  },
+  {
+    "question": "How do you measure success?",
+    "answer": "We track metrics like website visits, ad performance, engagement rates, and leads generated — not just followers."
+  },
+  {
+    "question": "What kind of results can I expect?",
+    "answer": "Most businesses see improved branding immediately and start generating leads within 2–3 months of consistent work."
+  },
+  {
+    "question": "Do you guarantee more followers?",
+    "answer": "No — our focus is on getting you real leads and sales, not just vanity metrics like followers."
+  },
+  {
+    "question": "Do you guarantee sales?",
+    "answer": "We can’t guarantee sales since it depends on your business, but we set up your website and ads to maximize conversions."
+  },
+  {
+    "question": "How long does it take to see results?",
+    "answer": "Websites show impact right away, while ads and SEO typically take 2–3 months to generate strong results."
+  },
+  {
+    "question": "Do you work with small businesses?",
+    "answer": "Yes — we love working with small businesses and helping them look more professional online."
+  },
+  {
+    "question": "Do you work with startups?",
+    "answer": "Yes — startups often need fast, affordable websites and ads to launch, and we can provide that."
+  },
+  {
+    "question": "Can you help ecommerce stores?",
+    "answer": "Yes — we build online stores with product listings, checkout systems, and integrations."
+  },
+  {
+    "question": "Do you help local businesses?",
+    "answer": "Absolutely — our services are designed with local businesses in mind, especially those who want to grow their client base."
+  },
+  {
+    "question": "Can you work with influencers?",
+    "answer": "Yes — we can help influencers with personal websites, brand partnerships, and social growth strategies."
+  },
+  {
+    "question": "Do you design graphics?",
+    "answer": "Yes — we design branded graphics, social media posts, banners, and ad creatives."
+  },
+  {
+    "question": "Do you edit videos?",
+    "answer": "Yes — we edit short-form videos (reels, TikToks, ads) and basic promotional content."
+  },
+  {
+    "question": "Do you handle photography?",
+    "answer": "We don’t directly shoot photography, but we can edit provided images or source stock photos that fit your brand."
+  },
+  {
+    "question": "Do you create captions?",
+    "answer": "Yes — we write engaging captions optimized for your audience and platform."
+  },
+  {
+    "question": "Do you do hashtag research?",
+    "answer": "Yes — we research hashtags that improve discoverability and reach."
+  },
+  {
+    "question": "How do you schedule posts?",
+    "answer": "We use scheduling tools like Buffer, Later, or Meta Business Suite to keep posts consistent."
+  },
+  {
+    "question": "Do you use automation tools?",
+    "answer": "We use tools for scheduling and analytics but avoid spammy automation that hurts your brand."
+  },
+  {
+    "question": "Do you reply to comments?",
+    "answer": "We can reply to comments with pre-approved responses to maintain engagement."
+  },
+  {
+    "question": "Do you reply to direct messages?",
+    "answer": "Yes — if you’d like, we can handle inquiries and forward leads to you directly."
+  },
+  {
+    "question": "Do you monitor brand mentions?",
+    "answer": "Yes — we track mentions and online reputation to keep your brand image positive."
+  },
+  {
+    "question": "How often do you post?",
+    "answer": "Typically 2–5 times per week, depending on your package and goals."
+  },
+  {
+    "question": "Can I approve posts before they go live?",
+    "answer": "Yes — you’ll have full approval over content before publishing."
+  },
+  {
+    "question": "Do you provide monthly reports?",
+    "answer": "Yes — we provide monthly reports with growth, reach, and recommendations."
+  },
+  {
+    "question": "What metrics do you track?",
+    "answer": "Engagement, reach, clicks, conversions, follower growth, and ad performance."
+  },
+  {
+    "question": "Do you optimize campaigns?",
+    "answer": "Yes — we continuously optimize ads and posts for better performance."
+  },
+  {
+    "question": "Do you run A/B tests?",
+    "answer": "Yes — we test different creatives, captions, and targeting to find what works best."
+  },
+  {
+    "question": "Do you do audience research?",
+    "answer": "Yes — we analyze your target audience to improve content and ads."
+  },
+  {
+    "question": "Can you manage influencer partnerships?",
+    "answer": "Yes — we can connect you with influencers and manage collaborations."
+  },
+  {
+    "question": "Do you provide competitor analysis?",
+    "answer": "Yes — we research competitors’ websites and socials to find growth opportunities."
+  },
+  {
+    "question": "Do you offer strategy sessions?",
+    "answer": "Yes — we can run monthly or quarterly strategy sessions with you."
+  },
+  {
+    "question": "Do you manage brand identity?",
+    "answer": "Yes — we help keep your design, tone, and messaging consistent."
+  },
+  {
+    "question": "Can you help with crisis management?",
+    "answer": "Yes — we can help handle online reputation issues or negative feedback."
+  },
+  {
+    "question": "Do you provide copywriting services?",
+    "answer": "Yes — we write ad copy, website copy, and social media captions."
+  },
+  {
+    "question": "Do you run retargeting ads?",
+    "answer": "Yes — we set up retargeting ads to re-engage visitors and increase conversions."
+  },
+  {
+    "question": "Do you handle Google Ads?",
+    "answer": "Yes — we run Google Search, Display, and Local Ads."
+  },
+  {
+    "question": "Do you handle YouTube Ads?",
+    "answer": "Yes — we manage YouTube video ad campaigns."
+  },
+  {
+    "question": "Do you do SEO?",
+    "answer": "Yes — we provide SEO setup and ongoing optimization."
+  },
+  {
+    "question": "Do you build websites?",
+    "answer": "Yes — we build professional, responsive websites tailored to your business."
+  },
+  {
+    "question": "Do you create landing pages?",
+    "answer": "Yes — we design high-conversion landing pages for campaigns."
+  },
+  {
+    "question": "Can you integrate with email marketing?",
+    "answer": "Yes — we can connect websites with Mailchimp, Klaviyo, or other email tools."
+  },
+  {
+    "question": "Do you set up sales funnels?",
+    "answer": "Yes — we create funnels that capture leads and drive conversions."
+  },
+  {
+    "question": "Do you offer consultations?",
+    "answer": "Yes — we offer free consultations before starting any project."
+  },
+  {
+    "question": "Do you do one-time projects?",
+    "answer": "Yes — we can take on one-time website or ad setup projects."
+  },
+  {
+    "question": "Do you offer ongoing monthly management?",
+    "answer": "Yes — our monthly care packages include hosting, maintenance, and updates."
+  },
+  {
+    "question": "What is the minimum contract length?",
+    "answer": "Most plans are month-to-month, with a 3-month recommendation for best results."
+  },
+  {
+    "question": "Can I cancel anytime?",
+    "answer": "Yes — you can cancel with 30 days notice."
+  },
+  {
+    "question": "Do you require upfront payment?",
+    "answer": "Yes — setup fees are paid upfront, and monthly care is billed at the start of each month."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit/debit cards, PayPal, and bank transfers."
+  },
+  {
+    "question": "Do you offer discounts?",
+    "answer": "We occasionally offer discounts for referrals or annual prepayments."
+  },
+  {
+    "question": "Do you have a referral program?",
+    "answer": "Yes — clients who refer new businesses can get discounts on their next invoice."
+  },
+  {
+    "question": "Do you offer white-label services?",
+    "answer": "Yes — we can work under your branding if you’re an agency."
+  },
+  {
+    "question": "Can you train my team?",
+    "answer": "Yes — we can train staff on managing websites, socials, and ads."
+  },
+  {
+    "question": "Do you provide consulting only?",
+    "answer": "Yes — we can advise your business even if we don’t fully manage it."
+  },
+  {
+    "question": "Do you guarantee ROI?",
+    "answer": "No — we can’t guarantee exact ROI, but we focus on maximizing leads and conversions."
+  },
+  {
+    "question": "Do you provide case studies?",
+    "answer": "Yes — we share results from past clients once available."
+  },
+  {
+    "question": "Can I see your past work?",
+    "answer": "Yes — we can show sample websites and mockups."
+  },
+  {
+    "question": "Do you have client testimonials?",
+    "answer": "Yes — we share testimonials once clients approve."
+  },
+  {
+    "question": "Can you share references?",
+    "answer": "Yes — upon request, we can connect you with past clients."
+  },
+  {
+    "question": "How do you onboard new clients?",
+    "answer": "We start with a kickoff call, collect brand details, and create a timeline."
+  },
+  {
+    "question": "Do you need access to my accounts?",
+    "answer": "Yes — we’ll request secure access to your website, socials, or ad accounts if needed."
+  },
+  {
+    "question": "Is my account data safe?",
+    "answer": "Yes — we use secure tools and never share your data."
+  },
+  {
+    "question": "How do you ensure brand voice?",
+    "answer": "We study your brand and get approvals to ensure tone stays consistent."
+  },
+  {
+    "question": "Do you create custom strategies?",
+    "answer": "Yes — every client gets a tailored strategy for their goals."
+  },
+  {
+    "question": "Do you offer 24/7 support?",
+    "answer": "No — support is during business hours, but emergencies are handled quickly."
+  },
+  {
+    "question": "Do you offer weekend support?",
+    "answer": "Yes — limited weekend support is available for priority clients."
+  },
+  {
+    "question": "What makes you different from other agencies?",
+    "answer": "We don’t just build websites and leave — we manage, optimize, and grow your entire online presence."
+  },
+  {
+    "question": "Do you only work locally?",
+    "answer": "No — we work with clients across Canada, the US, and internationally."
+  },
+  {
+    "question": "Can you work with international clients?",
+    "answer": "Yes — we manage clients in different countries and time zones."
+  },
+  {
+    "question": "Do you handle time zones?",
+    "answer": "Yes — we adapt communication and posting schedules to your time zone."
+  },
+  {
+    "question": "Do you outsource work?",
+    "answer": "Some tasks may be outsourced to trusted specialists, but we oversee everything."
+  },
+  {
+    "question": "Will I have a dedicated account manager?",
+    "answer": "Yes — you’ll have a direct point of contact for your project."
+  },
+  {
+    "question": "How often will we have meetings?",
+    "answer": "Typically monthly check-ins, but more often if needed."
+  },
+  {
+    "question": "Do you use project management tools?",
+    "answer": "Yes — we use tools like Notion, Trello, or Slack for collaboration."
+  },
+  {
+    "question": "Can you help launch a new brand?",
+    "answer": "Yes — we handle websites, socials, and ads for brand launches."
+  },
+  {
+    "question": "Do you help with rebranding?",
+    "answer": "Yes — we help refresh your online presence with new visuals and messaging."
+  },
+  {
+    "question": "Do you offer free trials?",
+    "answer": "No — but we provide mockups and demos before commitment."
+  },
+  {
+    "question": "Do you have a satisfaction guarantee?",
+    "answer": "Yes — we revise until you’re satisfied within the agreed scope."
+  },
+  {
+    "question": "What happens if I don’t like the work?",
+    "answer": "We’ll revise the work or adjust strategy based on your feedback."
+  },
+  {
+    "question": "Do you handle PR?",
+    "answer": "Not directly, but we can connect you with PR specialists."
+  },
+  {
+    "question": "Do you write press releases?",
+    "answer": "Yes — we can draft press releases if needed."
+  },
+  {
+    "question": "Do you work with media outlets?",
+    "answer": "We can connect you with media outlets through partnerships."
+  },
+  {
+    "question": "Do you design logos?",
+    "answer": "Yes — we can create simple logos and branding kits."
+  },
+  {
+    "question": "Do you offer branding kits?",
+    "answer": "Yes — we provide logos, colors, and templates for consistency."
+  },
+  {
+    "question": "Do you do podcast promotion?",
+    "answer": "Yes — we can help promote podcasts through social content and ads."
+  },
+  {
+    "question": "Do you manage LinkedIn pages?",
+    "answer": "Yes — we create and manage LinkedIn company profiles and posts."
+  },
+  {
+    "question": "Do you manage Pinterest accounts?",
+    "answer": "Yes — we can manage Pinterest boards and ad campaigns."
+  },
+  {
+    "question": "Do you manage Twitter/X accounts?",
+    "answer": "Yes — we manage posting, engagement, and ads on Twitter/X."
+  },
+  {
+    "question": "Do you provide content calendars?",
+    "answer": "Yes — we create monthly content calendars for your approval."
+  },
+  {
+    "question": "Do you create stories and reels?",
+    "answer": "Yes — we design and edit Instagram Stories and Reels for engagement."
+  },
+  {
+    "question": "Do you manage ad spend budgets?",
+    "answer": "Yes — we help allocate and optimize ad budgets for maximum ROI."
+  },
+  {
+    "question": "Do you provide detailed invoices?",
+    "answer": "Yes — every client receives a clear, itemized invoice."
+  },
+  {
+    "question": "Do you handle contracts?",
+    "answer": "Yes — we provide clear contracts before starting work."
+  },
+  {
+    "question": "Do you provide tax-compliant invoices?",
+    "answer": "Yes — all invoices are tax-compliant."
+  },
+  {
+    "question": "Do you help with business strategy?",
+    "answer": "Yes — we can align your online presence with your overall business goals."
+  },
+  {
+    "question": "What are your business hours?",
+    "answer": "We are open Monday to Friday, 9AM to 6PM."
+  },
+  {
+    "question": "When are you open?",
+    "answer": "We are open Monday to Friday, 9AM to 6PM."
+  },
+  {
+    "question": "Operating hours?",
+    "answer": "We are open Monday to Friday, 9AM to 6PM."
+  }
+]
