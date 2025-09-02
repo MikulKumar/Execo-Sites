@@ -1,0 +1,1 @@
+web: gunicorn proto-1:app
