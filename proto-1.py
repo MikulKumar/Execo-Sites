@@ -1,10 +1,13 @@
 from flask import Flask, request, render_template_string, jsonify
 import json
+from dotenv import load_dotenv
+load_dotenv() 
 import numpy as np
 import faiss
 from openai import OpenAI
+import os 
 
-client = OpenAI()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Load FAISS index + answers
 faq_index = faiss.read_index("faq.index")
